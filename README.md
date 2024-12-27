@@ -116,4 +116,4 @@ ii)HALF SUBTRACTOR
 
 **Result:**
 
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
+ half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
